@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Card from "./Card";
-import { useQuery } from "@tanstack/react-query";
+import { keepPreviousData, useQuery } from "@tanstack/react-query";
 import { motion } from "framer-motion";
 const Schools = () => {
   const [searchText, setSearchText] = useState("");
@@ -23,7 +23,7 @@ const Schools = () => {
       console.log("Fetched data:", data);
       return data;
     },
-    keepPreviousData: true,
+    placeholderData: keepPreviousData,
   });
 
   const handleOnClick = () => {
