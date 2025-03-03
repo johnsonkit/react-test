@@ -11,6 +11,7 @@ const Schools = () => {
     data: schools,
     isLoading,
     isSuccess,
+    isFetching,
   } = useQuery({
     queryKey: ["schools", limit, queryText],
     queryFn: async () => {
@@ -65,7 +66,7 @@ const Schools = () => {
             className="button button-coffee search--button"
             type="button"
             onClick={handleOnClick}
-            disabled={isLoading}
+            disabled={isLoading || isFetching}
           >
             Search
           </button>
@@ -80,7 +81,7 @@ const Schools = () => {
           }}
           viewport={{
             once: true,
-            amount: 0.5,
+            amount: 0,
           }}
         >
           <h2 className="title special--font">
@@ -99,10 +100,16 @@ const Schools = () => {
               className="button show-more"
               type="button"
               onClick={handleShowMore}
-              disabled={isLoading}
+              disabled={isFetching || isLoading}
             >
               <i className="icon icon-plus icon--left"></i>
               More
+              {isFetching && (
+                <span
+                  className="spinner-border spinner-border-sm icon--right"
+                  aria-hidden="true"
+                ></span>
+              )}
             </button>
           </div>
         )}

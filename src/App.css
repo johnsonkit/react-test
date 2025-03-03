@@ -120,8 +120,8 @@
 
 .button--floating {
   position: fixed;
-  bottom: 95px;
-  right: 45px;
+  bottom: 20px;
+  right: 12px;
   z-index: 100;
   background: #fffbeb;
   border-radius: 8px;
@@ -140,6 +140,12 @@
 
 .button--floating:hover span {
   display: inline;
+}
+@media (min-width: 1024px) {
+  .button--floating {
+    bottom: 95px;
+    right: 45px;
+  }
 }
 
 /**
