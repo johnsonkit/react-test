@@ -1,0 +1,258 @@
+{
+  "timeStamp": "2025-03-01T03:29:21Z",
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [114.16525969433555, 22.278373591602307],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1,
+        "Easting___坐標東": 835071,
+        "Address": "6/F, United Centre, 95 Queensway, Admiralty, Hong Kong",
+        "Dataset": "Higher Education Institutions",
+        "Longitude___經度": 114.16525969,
+        "地址": "香港金鐘道95號統一中心6樓",
+        "Latitude___緯度": 22.2783733,
+        "Last_Updated_Date___最後更新日期": "2024-02-19T16:44:26Z",
+        "Facility_Name": "HKU School of Professional and Continuing Education (United Learning Centre)",
+        "設施名稱": "香港大學專業進修學院 (統一教學中心)",
+        "數據集": "高等教育院校",
+        "Northing___坐標北": 815501
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [114.17309828995339, 22.336269187586847],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 2,
+        "Easting___坐標東": 835879,
+        "Address": "Tat Chee Avenue, Kowloon",
+        "Dataset": "Higher Education Institutions",
+        "Longitude___經度": 114.17309828,
+        "地址": "九龍達之路",
+        "Latitude___緯度": 22.33626889,
+        "Last_Updated_Date___最後更新日期": "2024-02-19T16:44:11Z",
+        "Facility_Name": "City University of Hong Kong",
+        "設施名稱": "香港城市大學",
+        "數據集": "高等教育院校",
+        "Northing___坐標北": 821912
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [114.16977157833138, 22.27984584450298],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 3,
+        "Easting___坐標東": 835536,
+        "Address": "1 Gloucester Road,Wanchai",
+        "Dataset": "Higher Education Institutions",
+        "Longitude___經度": 114.16977157,
+        "地址": "香港灣仔告士打道一號",
+        "Latitude___緯度": 22.27984555,
+        "Last_Updated_Date___最後更新日期": "2024-02-19T16:44:00Z",
+        "Facility_Name": "Hong Kong Academy for Performing Arts",
+        "設施名稱": "香港演藝學院",
+        "數據集": "高等教育院校",
+        "Northing___坐標北": 815664
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [114.26356932462004, 22.337158104204327],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 4,
+        "Easting___坐標東": 845199,
+        "Address": "Clear Water Bay, Kowloon",
+        "Dataset": "Higher Education Institutions",
+        "Longitude___經度": 114.26356932,
+        "地址": "香港九龍清水灣",
+        "Latitude___緯度": 22.33715781,
+        "Last_Updated_Date___最後更新日期": "2024-02-19T16:43:29Z",
+        "Facility_Name": "The Hong Kong University of Science and Technology",
+        "設施名稱": "香港科技大學",
+        "數據集": "高等教育院校",
+        "Northing___坐標北": 822013
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [114.19589350584039, 22.289177193105903],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 5,
+        "Easting___坐標東": 838227.95350371,
+        "Address": "19 Cheung Hong St, North Point, Hong Kong Island, Hong Kong",
+        "Dataset": "Higher Education Institutions",
+        "Longitude___經度": 114.1958935,
+        "地址": "香港北角長康街十九號",
+        "Latitude___緯度": 22.2891769,
+        "Last_Updated_Date___最後更新日期": "2024-01-08T10:24:41Z",
+        "Facility_Name": "The Education University of Hong Kong (North Point Study Centre)",
+        "設施名稱": "香港教育大學 (北角教育中心)",
+        "數據集": "高等教育院校",
+        "Northing___坐標北": 816697.40650086
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [114.26000620751988, 22.326360308542384],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "網頁": "N.A.",
+        "Easting___坐標東": 844832.6,
+        "聯絡電話": "N.A.",
+        "Address": "1 King Yin Lane, Tseung Kwan O, New Territories, Hong Kong",
+        "Opening_Hours": "N.A.",
+        "Telephone": "N.A.",
+        "Dataset": "Higher Education Institutions",
+        "電郵地址": "N.A.",
+        "開放時間": "N.A.",
+        "Email_Address": "N.A.",
+        "Longitude___經度": 114.26000621,
+        "Website": "N.A.",
+        "Latitude___緯度": 22.32636031,
+        "設施名稱": "香港教育大學 (將軍澳教學中心)",
+        "數據集": "高等教育院校",
+        "Northing___坐標北": 820817.1,
+        "OBJECTID": 6,
+        "Fax_Number": "N.A.",
+        "傳真號碼": "N.A.",
+        "地址": "香港九龍將軍澳敬賢里1號",
+        "Last_Updated_Date___最後更新日期": "2023-08-21T10:32:13Z",
+        "Facility_Name": "The Education University of Hong Kong (Tseung Kwan O Study Centre Office)"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [113.98320120185886, 22.4103679772357],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 7,
+        "Easting___坐標東": 816326.9,
+        "Address": "8 Castle Peak Road, Tuen Mun, NT.",
+        "Dataset": "Higher Education Institutions",
+        "Longitude___經度": 113.9832012,
+        "地址": "新界屯門青山公路八號",
+        "Latitude___緯度": 22.41036798,
+        "Last_Updated_Date___最後更新日期": "2023-07-26T10:01:08Z",
+        "Facility_Name": "Lingnan University",
+        "設施名稱": "嶺南大學",
+        "數據集": "高等教育院校",
+        "Northing___坐標北": 830130.2
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [114.13285213146544, 22.362218896103766],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "網頁": "N.A.",
+        "Easting___坐標東": 831733.8,
+        "聯絡電話": "N.A.",
+        "Address": "8/F-11/F, Tower 2, Kowloon Commerce Centre ,51-53 Kwai Cheong Road,Kwai Chung, N.T.",
+        "Opening_Hours": "N.A.",
+        "Telephone": "N.A.",
+        "Dataset": "Higher Education Institutions",
+        "電郵地址": "N.A.",
+        "開放時間": "N.A.",
+        "Email_Address": "N.A.",
+        "Longitude___經度": 114.13285213,
+        "Website": "N.A.",
+        "Latitude___緯度": 22.3622189,
+        "設施名稱": "香港都會大學 - 李嘉誠專業進修學院 (葵興校園)",
+        "數據集": "高等教育院校",
+        "Northing___坐標北": 824786.2,
+        "OBJECTID": 8,
+        "Fax_Number": "N.A.",
+        "傳真號碼": "N.A.",
+        "地址": "新界葵涌葵昌路51-53號九龍貿易中心第2座8-11樓",
+        "Last_Updated_Date___最後更新日期": "2023-07-26T09:55:38Z",
+        "Facility_Name": "Hong Kong Metropolitan University - Li Ka Shing School of Professional and Continuing Education (Kwai Hing Campus)"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [114.1846130263116, 22.303636089925952],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "網頁": "N.A.",
+        "Easting___坐標東": 837065.4,
+        "聯絡電話": "N.A.",
+        "Address": "8 Hung Lok Road, Hung Hom, Kowloon",
+        "Opening_Hours": "N.A.",
+        "Telephone": "N.A.",
+        "Dataset": "Higher Education Institutions",
+        "電郵地址": "N.A.",
+        "開放時間": "N.A.",
+        "Email_Address": "N.A.",
+        "Longitude___經度": 114.18461303,
+        "Website": "N.A.",
+        "Latitude___緯度": 22.30363609,
+        "設施名稱": "香港理工大學 - 香港專上學院 (紅磡灣校園)",
+        "數據集": "高等教育院校",
+        "Northing___坐標北": 818298.4,
+        "OBJECTID": 9,
+        "Fax_Number": "N.A.",
+        "傳真號碼": "N.A.",
+        "地址": "九龍紅磡紅樂道8號",
+        "Last_Updated_Date___最後更新日期": "2023-07-26T09:53:37Z",
+        "Facility_Name": "The Hong Kong Polytechnic University - Hong Kong Community College (Hung Hom Bay Campus)"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [114.21097164734331, 22.324291083334295],
+        "type": "Point"
+      },
+      "type": "Feature",
+      "properties": {
+        "網頁": "N.A.",
+        "Easting___坐標東": 839780.9,
+        "聯絡電話": "N.A.",
+        "Address": "Lee Shiu Building, 28 Wang Hoi Road, Kowloon Bay, Hong Kong",
+        "Opening_Hours": "N.A.",
+        "Telephone": "N.A.",
+        "Dataset": "Higher Education Institutions",
+        "電郵地址": "N.A.",
+        "開放時間": "N.A.",
+        "Email_Address": "N.A.",
+        "Longitude___經度": 114.21097165,
+        "Website": "N.A.",
+        "Latitude___緯度": 22.32429108,
+        "設施名稱": "香港大學附屬學院 (九龍東分校)",
+        "數據集": "高等教育院校",
+        "Northing___坐標北": 820586,
+        "OBJECTID": 10,
+        "Fax_Number": "N.A.",
+        "傳真號碼": "N.A.",
+        "地址": "香港九龍灣宏開道28號",
+        "Last_Updated_Date___最後更新日期": "2023-07-26T09:41:33Z",
+        "Facility_Name": "HKU SPACE Community College (Kowloon East Campus)"
+      }
+    }
+  ],
+  "numberReturned": 10,
+  "type": "FeatureCollection",
+  "numberMatched": 120
+}
